@@ -1,2 +1,2 @@
 # cypress-course
-Cypress course
+Cypress course made in Udemy.
